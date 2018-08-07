@@ -1,7 +1,7 @@
 {
-  "clientId": "<enter-client-id>",
-  "clientSecret": "<enter-client-secret>",
-  "redirectUri": "https://<host>/callback",
+  "clientId": "Q0w2eqxNVNZnl9s3SeP8fxiRaqAhB7HcoDNOvyCEQHhnn99W9s",
+  "clientSecret": "oGvrcBzo7o0Jfs8V9UczZzsNzBKQRh7p03YORs4X",
+  "redirectUri": "http://localhost:3000/callback",
   "configurationEndpoint": "https://developer.api.intuit.com/.well-known/openid_sandbox_configuration/",
   "api_uri": "https://sandbox-quickbooks.api.intuit.com/v3/company/",
   "scopes": {
